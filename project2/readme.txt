@@ -1,5 +1,5 @@
 Introduction: 
-A simple program reliableealize reliable network transmission based on RDT3.0 protocol
+A simple program to achieve reliable network transmission based on RDT3.0 protocol
 
 How to compile: 
 g++ server.cpp -o server
