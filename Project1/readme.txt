@@ -1,5 +1,5 @@
 Introduction: 
-A simple program reliableealize unreliable network transmission based on UDP protocol
+A simple program to achieve unreliable transmission based on UDP protocol
 
 How to compile: 
 g++ server.cpp -o server
