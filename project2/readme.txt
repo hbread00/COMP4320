@@ -1,6 +1,5 @@
 Introduction: 
 A simple program reliableealize reliable network transmission based on RDT3.0 protocol
-The gremlin method of the server is used to simulate the situation where the ACK is destroyed or lost
 
 How to compile: 
 g++ server.cpp -o server
